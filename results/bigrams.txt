@@ -1,0 +1,10 @@
+< s >   s   >   < / s > | 200
+< s >   >   t h e   < / s > | 200
+< s >   t h e   f u l t o n   < / s > | 156
+< s >   .   < /   < / s > | 117
+< s >   <   s   < / s > | 100
+< s >   < /   s   < / s > | 100
+< s >   ,   w h i c h   < / s > | 88
+< s >   '   '   < / s > | 68
+< s >   o f   a t l a n t a   < / s > | 67
+< s >   t o   i n v e s t i g a t e   < / s > | 55
