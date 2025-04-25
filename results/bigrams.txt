@@ -1,3 +1,210 @@
+< s >   a   c o n s t i t u t i o n a l   < / s > | 1
+< s >   a   v o t e   < / s > | 1
+< s >   a   s i m i l a r   < / s > | 1
+< s >   a   $   < / s > | 1
+< s >   a   b a t t l e   < / s > | 1
+< s >   a   p o r t i o n   < / s > | 1
+< s >   a   p l a n   < / s > | 1
+< s >   a   h i g h w a y   < / s > | 1
+< s >   a   f r i e n d l y   < / s > | 1
+< s >   a   s t u d y   < / s > | 1
+< s >   a   c a m p a i g n   < / s > | 1
+< s >   a   s y s t e m   < / s > | 1
+< s >   a   p r i m a r y   < / s > | 1
+< s >   a   f i r s t   < / s > | 1
+< s >   a   u n a n i m o u s   < / s > | 1
+< s >   a   m e e t i n g   < / s > | 1
+< s >   a   t o p   < / s > | 1
+< s >   a   y e a r   < / s > | 1
+< s >   a   d a u g h t e r   < / s > | 1
+< s >   a   s o n   < / s > | 1
+< s >   a   f a i r   < / s > | 1
+< s >   a   d o c t o r   < / s > | 1
+< s >   a   m a n n e r   < / s > | 1
+< s >   a   d i s p r o p o r t i o n a t e   < / s > | 1
+< s >   a   p r o p o r t i o n a t e   < / s > | 1
+< s >   a   s w i p e   < / s > | 1
+< s >   a   r e s u l t   < / s > | 1
+< s >   a   n u m b e r   < / s > | 1
+< s >   a   r e l a t i v e   < / s > | 1
+< s >   o n l y   a   < / s > | 1
+< s >   m a y o r - n o m i n a t e   i v a n   < / s > | 1
+< s >   w o n   b y   < / s > | 1
+< s >   h a r d - f o u g h t   p r i m a r y   < / s > | 1
+< s >   p o s s i b l e   ` `   < / s > | 1
+< s >   r e p o r t s   w a s   < / s > | 1
+< s >   r e p o r t s   o f   < / s > | 1
+< s >   i n v e s t i g a t e   r e p o r t s   < / s > | 1
+< s >   t o   c a r r y   < / s > | 1
+< s >   t o   a n o n y m o u s   < / s > | 1
+< s >   t o   d e a t h   < / s > | 1
+< s >   t o   i n s u r e   < / s > | 1
+< s >   t o   t e a c h e r   < / s > | 1
+< s >   t o   o f f e r   < / s > | 1
+< s >   t o   s e e   < / s > | 1
+< s >   t o   e d u c a t i o n   < / s > | 1
+< s >   t o   b a c k   < / s > | 1
+< s >   t o   v o t e   < / s > | 1
+< s >   t o   a l l o w   < / s > | 1
+< s >   t o   s e t   < / s > | 1
+< s >   t o   f i r s t   < / s > | 1
+< s >   t o   $   < / s > | 1
+< s >   t o   t e s t   < / s > | 1
+< s >   t o   b o t h   < / s > | 1
+< s >   t o   d e t e r m i n e   < / s > | 1
+< s >   t o   r u r a l   < / s > | 1
+< s >   t o   a p p r o v e   < / s > | 1
+< s >   t o   b e c o m e   < / s > | 1
+< s >   t o   w o r k   < / s > | 1
+< s >   t o   f a c e   < / s > | 1
+< s >   t o   w a i t   < / s > | 1
+< s >   t o   r e p u b l i c a n s   < / s > | 1
+< s >   t o   o b t a i n   < / s > | 1
+< s >   t o   t a k e   < / s > | 1
+< s >   t o   b e   < / s > | 1
+< s >   t o   c i t y   < / s > | 1
+< s >   t o   h i s   < / s > | 1
+< s >   t o   p a s s   < / s > | 1
+< s >   t o   p r o t e c t   < / s > | 1
+< s >   t o   d o   < / s > | 1
+< s >   t o   d i s t r i b u t e   < / s > | 1
+< s >   t o   r e m e d y   < / s > | 1
+< s >   t o   a c h i e v e   < / s > | 1
+< s >   t o   h a v e   < / s > | 1
+< s >   t o   i n v e s t i g a t e   < / s > | 1
+< s >   p y e   t o   < / s > | 1
+< s >   d u r w o o d   p y e   < / s > | 1
+< s >   j u d g e   d u r w o o d   < / s > | 1
+< s >   c o u r t   f r i d a y   < / s > | 1
+< s >   c o u r t   ' s   < / s > | 1
+< s >   c o u r t   ` `   < / s > | 1
+< s >   c o u r t   w h i c h   < / s > | 1
+< s >   c o u r t   j u d g e   < / s > | 1
+< s >   b y   c o n t r o v e r s y   < / s > | 1
+< s >   b y   a t   < / s > | 1
+< s >   b y   a   < / s > | 1
+< s >   b y   t h e n   < / s > | 1
+< s >   b y   t a x   < / s > | 1
+< s >   b y   r o b   < / s > | 1
+< s >   b y   i v a n   < / s > | 1
+< s >   b y   t h e   < / s > | 1
+< s >   b y   m a y o r - n o m i n a t e   < / s > | 1
+< s >   b y   f u l t o n   < / s > | 1
+< s >   c h a r g e d   m e n t a l   < / s > | 1
+< s >   c h a r g e d   b y   < / s > | 1
+< s >   b e e n   c o n s u l t e d   < / s > | 1
+< s >   b e e n   a n   < / s > | 1
+< s >   b e e n   e x p e c t e d   < / s > | 1
+< s >   b e e n   m a y o r   < / s > | 1
+< s >   b e e n   a g r e e d   < / s > | 1
+< s >   b e e n   u n d e r   < / s > | 1
+< s >   b e e n   c h a r g e d   < / s > | 1
+< s >   t e r m   t o   < / s > | 1
+< s >   t e r m   o f   < / s > | 1
+< s >   t e r m   j u r y   < / s > | 1
+< s >   s e p t e m b e r - o c t o b e r   t e r m   < / s > | 1
+< s >   c o n d u c t e d   .   < / s > | 1
+< s >   w a s   n ' t   < / s > | 1
+< s >   w a s   s u b j e c t e d   < / s > | 1
+< s >   w a s   m a r k e d   < / s > | 1
+< s >   w a s   n o t   < / s > | 1
+< s >   w a s   j u s t   < / s > | 1
+< s >   w a s   t h e   < / s > | 1
+< s >   w a s   n o   < / s > | 1
+< s >   w a s   r e s e a r c h   < / s > | 1
+< s >   w a s   l e a r n e d   < / s > | 1
+< s >   w a s   a s k e d   < / s > | 1
+< s >   w a s   a   < / s > | 1
+< s >   w a s   w a r n e d   < / s > | 1
+< s >   w a s   p i c k i n g   < / s > | 1
+< s >   w a s   l i s t e d   < / s > | 1
+< s >   w a s   m a r r i e d   < / s > | 1
+< s >   w a s   a l s o   < / s > | 1
+< s >   w a s   r e c e i v e d   < / s > | 1
+< s >   w a s   w o n   < / s > | 1
+< s >   w a s   c o n d u c t e d   < / s > | 1
+< s >   m a n n e r   t h a t   < / s > | 1
+< s >   m a n n e r   i n   < / s > | 1
+< s >   f o r   p u b l i c   < / s > | 1
+< s >   f o r   f u t u r e   < / s > | 1
+< s >   f o r   r u r a l   < / s > | 1
+< s >   f o r   r e p a i r   < / s > | 1
+< s >   f o r   h o m e   < / s > | 1
+< s >   f o r   b y r d   < / s > | 1
+< s >   f o r   s o m e   < / s > | 1
+< s >   f o r   l t   < / s > | 1
+< s >   f o r   r e e l e c t i o n   < / s > | 1
+< s >   f o r   m o r e   < / s > | 1
+< s >   f o r   d i v o r c e   < / s > | 1
+< s >   f o r   c i t y   < / s > | 1
+< s >   f o r   n i g h t   < / s > | 1
+< s >   f o r   i t s   < / s > | 1
+< s >   f o r   c h i l d   < / s > | 1
+< s >   t h a n k s   o f   < / s > | 1
+< s >   a n d   p r o m i s e d   < / s > | 1
+< s >   a n d   w i l l i a m s   < / s > | 1
+< s >   a n d   v e i l e d   < / s > | 1
+< s >   a n d   w e   < / s > | 1
+< s >   a n d   c h a i r m a n   < / s > | 1
+< s >   a n d   e x p e n d e d   < / s > | 1
+< s >   a n d   c o n t r a c t s   < / s > | 1
+< s >   a n d   t h e n   < / s > | 1
+< s >   a n d   u r b a n   < / s > | 1
+< s >   a n d   h e a d   < / s > | 1
+< s >   a n d   t h e r e   < / s > | 1
+< s >   a n d   w i f e   < / s > | 1
+< s >   a n d   p l a c e   < / s > | 1
+< s >   a n d   h i s   < / s > | 1
+< s >   a n d   a   < / s > | 1
+< s >   a n d   a l p h a r e t t a   < / s > | 1
+< s >   a n d   o p e r a t i o n   < / s > | 1
+< s >   a n d   e q u i t a b l e   < / s > | 1
+< s >   a n d   w e e k e n d   < / s > | 1
+< s >   a n d   ` `   < / s > | 1
+< s >   a n d   e l e c t e d   < / s > | 1
+< s >   a n d   i t s   < / s > | 1
+< s >   a n d   i n   < / s > | 1
+< s >   a n d   a n   < / s > | 1
+< s >   a n d   c o m p e n s a t i o n   < / s > | 1
+< s >   a n d   a d m i n i s t r a t o r s   < / s > | 1
+< s >   a n d   r e - s e t   < / s > | 1
+< s >   a n d   r e d u c e   < / s > | 1
+< s >   a n d   f o l l o w   < / s > | 1
+< s >   a n d   f u l t o n   < / s > | 1
+< s >   a n d   i m p r o v i n g   < / s > | 1
+< s >   a n d   r e v i s e d   < / s > | 1
+< s >   a n d   o f t e n   < / s > | 1
+< s >   a n d   e l e c t i o n   < / s > | 1
+< s >   a n d   t h a n k s   < / s > | 1
+< s >   p r a i s e   a n d   < / s > | 1
+< s >   d e s e r v e s   t h e   < / s > | 1
+< s >   c h a r g e   j a n   < / s > | 1
+< s >   c h a r g e   o f   < / s > | 1
+< s >   o v e r - a l l   c h a r g e   < / s > | 1
+< s >   h a d   o v e r - a l l   < / s > | 1
+< s >   w h i c h   b a r b e r   < / s > | 1
+< s >   w h i c h   n e w   < / s > | 1
+< s >   w h i c h   s a y s   < / s > | 1
+< s >   w h i c h   n e w l y   < / s > | 1
+< s >   w h i c h   h a s   < / s > | 1
+< s >   w h i c h   r e c e i v e s   < / s > | 1
+< s >   w h i c h   i n u r e   < / s > | 1
+< s >   w h i c h   i t   < / s > | 1
+< s >   w h i c h   w a s   < / s > | 1
+< s >   w h i c h   h a d   < / s > | 1
+< s >   ,   t e x a s   < / s > | 1
+< s >   ,   w a s   < / s > | 1
+< s >   ,   t o o   < / s > | 1
+< s >   ,   r e p o r t e d l y   < / s > | 1
+< s >   ,   d a v i s   < / s > | 1
+< s >   ,   b o t h   < / s > | 1
+< s >   ,   f o u r   < / s > | 1
+< s >   ,   s h o t   < / s > | 1
+< s >   ,   g e o r g e   < / s > | 1
+< s >   ,   a n o n y m o u s   < / s > | 1
+< s >   ,   c o l q u i t t   < / s > | 1
+< s >   ,   c a l m e s t   < / s > | 1
+< s >   ,   s t o o d   < / s > | 1
 < s >   ,   a r m e d   < / s > | 1
 < s >   ,   a s   < / s > | 1
 < s >   ,   e l e c t e d   < / s > | 1
@@ -8,3 +215,593 @@
 < s >   ,   s o m e t h i n g   < / s > | 1
 < s >   ,   p e l h a m   < / s > | 1
 < s >   ,   t h a t   < / s > | 1
+< s >   ,   c a l d w e l l   < / s > | 1
+< s >   ,   r e s i g n e d   < / s > | 1
+< s >   ,   o r   < / s > | 1
+< s >   ,   o n e   < / s > | 1
+< s >   ,   a c c o r d i n g   < / s > | 1
+< s >   ,   s i n c e   < / s > | 1
+< s >   ,   w i t h   < / s > | 1
+< s >   ,   a l a   < / s > | 1
+< s >   ,   m r s   < / s > | 1
+< s >   ,   w i l l i a m   < / s > | 1
+< s >   ,   1 9 1 3   < / s > | 1
+< s >   ,   p e a r l   < / s > | 1
+< s >   ,   g r a d y   < / s > | 1
+< s >   ,   m e d i c a l   < / s > | 1
+< s >   ,   g u a r d i a n s   < / s > | 1
+< s >   ,   a m o n g   < / s > | 1
+< s >   c o m m i t t e e   a p p r o v a l   < / s > | 1
+< s >   c o m m i t t e e   ,   < / s > | 1
+< s >   c i t y   c o u n c i l   < / s > | 1
+< s >   c i t y   e m p l o y e s   < / s > | 1
+< s >   c i t y   o f f i c i a l s   < / s > | 1
+< s >   c i t y   ` `   < / s > | 1
+< s >   c i t y   p e r s o n n e l   < / s > | 1
+< s >   c i t y   p u r c h a s i n g   < / s > | 1
+< s >   c i t y   '   < / s > | 1
+< s >   c i t y   o f   < / s > | 1
+< s >   c i t y   e x e c u t i v e   < / s > | 1
+< s >   p r e s e n t m e n t s   t h a t   < / s > | 1
+< s >   t e r m - e n d   p r e s e n t m e n t s   < / s > | 1
+< s >   i n   s a t u r d a y   < / s > | 1
+< s >   i n   t h i s   < / s > | 1
+< s >   i n   f e d e r a l   < / s > | 1
+< s >   i n   w a s h i n g t o n   < / s > | 1
+< s >   i n   h i s   < / s > | 1
+< s >   i n   e x p e n s e   < / s > | 1
+< s >   i n   v o t i n g   < / s > | 1
+< s >   i n   1 9 5 8   < / s > | 1
+< s >   i n   i t s   < / s > | 1
+< s >   i n   e a c h   < / s > | 1
+< s >   i n   s a v a n n a h   < / s > | 1
+< s >   i n   b l u e   < / s > | 1
+< s >   i n   1 9 2 3   < / s > | 1
+< s >   i n   f u l t o n   < / s > | 1
+< s >   i n   e f f e c t   < / s > | 1
+< s >   i n   f a c t   < / s > | 1
+< s >   i n   o u r   < / s > | 1
+< s >   i n   f o s t e r   < / s > | 1
+< s >   i n   e x p e r i e n c e d   < / s > | 1
+< s >   i n   w h i c h   < / s > | 1
+< s >   i n   t e r m - e n d   < / s > | 1
+< s >   f u r t h e r   s a i d   < / s > | 1
+< s >   .   p r i c e   < / s > | 1
+< s >   .   c a l l a n   < / s > | 1
+< s >   .   m a c   < / s > | 1
+< s >   .   d   < / s > | 1
+< s >   .   b   < / s > | 1
+< s >   .   m a r v i n   < / s > | 1
+< s >   .   v a n d i v e r   < / s > | 1
+< s >   .   g a r l a n d   < / s > | 1
+< s >   .   g o v   < / s > | 1
+< s >   .   j o h n   < / s > | 1
+< s >   .   8   < / s > | 1
+< s >   .   d o r s e y   < / s > | 1
+< s >   .   1 3   < / s > | 1
+< s >   .   b o w d e n   < / s > | 1
+< s >   .   a j   < / s > | 1
+< s >   .   c h e s h i r e   < / s > | 1
+< s >   .   m   < / s > | 1
+< s >   .   j   < / s > | 1
+< s >   .   2   < / s > | 1
+< s >   .   h a r t s f i e l d   < / s > | 1
+< s >   p l a c e   n a m e s   < / s > | 1
+< s >   p l a c e   o f   < / s > | 1
+< s >   p l a c e   a   < / s > | 1
+< s >   p l a c e   .   < / s > | 1
+< s >   t o o k   a   < / s > | 1
+< s >   t o o k   p l a c e   < / s > | 1
+< s >   i r r e g u l a r i t i e s   a t   < / s > | 1
+< s >   i r r e g u l a r i t i e s   '   < / s > | 1
+< s >   i r r e g u l a r i t i e s   t o o k   < / s > | 1
+< s >   a n y   i r r e g u l a r i t i e s   < / s > | 1
+< s >   t h a t   t h e r e   < / s > | 1
+< s >   t h a t   n o n e   < / s > | 1
+< s >   t h a t   s u c h   < / s > | 1
+< s >   t h a t   g e o r g i a   < / s > | 1
+< s >   t h a t   t e c h n i c a l   < / s > | 1
+< s >   t h a t   r e c o n s i d e r a t i o n   < / s > | 1
+< s >   t h a t   v a n d i v e r   < / s > | 1
+< s >   t h a t   b e f o r e   < / s > | 1
+< s >   t h a t   e n t e r i n g   < / s > | 1
+< s >   t h a t   e n t h u s i a s m   < / s > | 1
+< s >   t h a t   h e   < / s > | 1
+< s >   t h a t   :   < / s > | 1
+< s >   t h a t   w h e n   < / s > | 1
+< s >   t h a t   i n   < / s > | 1
+< s >   t h a t   f u l t o n   < / s > | 1
+< s >   t h a t   m a n y   < / s > | 1
+< s >   t h a t   a n y   < / s > | 1
+< s >   '   a c t   < / s > | 1
+< s >   '   t o   < / s > | 1
+< s >   '   a s   < / s > | 1
+< s >   '   v o t e   < / s > | 1
+< s >   '   a n d   < / s > | 1
+< s >   '   p e n s i o n   < / s > | 1
+< s >   '   o f   < / s > | 1
+< s >   '   o n   < / s > | 1
+< s >   '   t h i s   < / s > | 1
+< s >   '   i n   < / s > | 1
+< s >   '   f o r   < / s > | 1
+< s >   '   t h a t   < / s > | 1
+< s >   e v i d e n c e   '   < / s > | 1
+< s >   n o   w o r d   < / s > | 1
+< s >   n o   d i s s e n t s   < / s > | 1
+< s >   n o   - -   < / s > | 1
+< s >   n o   e v i d e n c e   < / s > | 1
+< s >   ` `   a b a n d o n e d   < / s > | 1
+< s >   ` `   e v e r y t h i n g   < / s > | 1
+< s >   ` `   b e i n g   < / s > | 1
+< s >   ` `   c o o l e s t   < / s > | 1
+< s >   ` `   g i v e   < / s > | 1
+< s >   ` `   i n   < / s > | 1
+< s >   ` `   e n d o r s e   < / s > | 1
+< s >   ` `   q u i c k i e   < / s > | 1
+< s >   ` `   a t t o r n e y   < / s > | 1
+< s >   ` `   w o r k   < / s > | 1
+< s >   ` `   t h a t   < / s > | 1
+< s >   ` `   f a i l u r e   < / s > | 1
+< s >   ` `   w e   < / s > | 1
+< s >   ` `   p r o v i d e   < / s > | 1
+< s >   ` `   t a k e   < / s > | 1
+< s >   ` `   i s   < / s > | 1
+< s >   ` `   t o   < / s > | 1
+< s >   ` `   c o n s i d e r i n g   < / s > | 1
+< s >   ` `   o n l y   < / s > | 1
+< s >   ` `   i r r e g u l a r i t i e s   < / s > | 1
+< s >   ` `   d e s e r v e s   < / s > | 1
+< s >   ` `   n o   < / s > | 1
+< s >   p r o d u c e d   ` `   < / s > | 1
+< s >   e l e c t i o n   c a m p a i g n   < / s > | 1
+< s >   e l e c t i o n   b a l l o t   < / s > | 1
+< s >   e l e c t i o n   t o   < / s > | 1
+< s >   e l e c t i o n   l a w s   < / s > | 1
+< s >   e l e c t i o n   p r o d u c e d   < / s > | 1
+< s >   p r i m a r y   u n d e r   < / s > | 1
+< s >   p r i m a r y   a f t e r   < / s > | 1
+< s >   p r i m a r y   w h i c h   < / s > | 1
+< s >   p r i m a r y   e l e c t i o n   < / s > | 1
+< s >   r e c e n t   p r i m a r y   < / s > | 1
+< s >   ' s   ` `   < / s > | 1
+< s >   ' s   e l e c t i o n   < / s > | 1
+< s >   ' s   c o n g r e s s m e n   < / s > | 1
+< s >   ' s   a c t i o n   < / s > | 1
+< s >   ' s   m o s t   < / s > | 1
+< s >   ' s   r e s i g n a t i o n   < / s > | 1
+< s >   ' s   c a m p a i g n   < / s > | 1
+< s >   ' s   r a c e   < / s > | 1
+< s >   ' s   p r e s e n t   < / s > | 1
+< s >   ' s   a t t o r n e y   < / s > | 1
+< s >   ' s   a g e   < / s > | 1
+< s >   ' s   o c c u p a t i o n   < / s > | 1
+< s >   ' s   o f f i c e   < / s > | 1
+< s >   ' s   n e w   < / s > | 1
+< s >   ' s   w a r d s   < / s > | 1
+< s >   ' s   c o u r t   < / s > | 1
+< s >   ' s   h a n d l i n g   < / s > | 1
+< s >   ' s   a u t o m o b i l e   < / s > | 1
+< s >   ' s   r e g i s t r a t i o n   < / s > | 1
+< s >   ' s   r e c e n t   < / s > | 1
+< s >   a t l a n t a   ,   < / s > | 1
+< s >   a t l a n t a   p o l i c e   < / s > | 1
+< s >   a t l a n t a   b a r   < / s > | 1
+< s >   a t l a n t a   a n d   < / s > | 1
+< s >   a t l a n t a   '   < / s > | 1
+< s >   o f   t e x a s   < / s > | 1
+< s >   o f   g o v   < / s > | 1
+< s >   o f   v i o l e n c e   < / s > | 1
+< s >   o f   l i q u o r   < / s > | 1
+< s >   o f   e d u c a t i o n   < / s > | 1
+< s >   o f   o u r   < / s > | 1
+< s >   o f   c o m m e r c e   < / s > | 1
+< s >   o f   s u n d a y   < / s > | 1
+< s >   o f   2 9 - 5   < / s > | 1
+< s >   o f   f r i d a y   < / s > | 1
+< s >   o f   a d d i t i o n a l   < / s > | 1
+< s >   o f   $   < / s > | 1
+< s >   o f   r u r a l   < / s > | 1
+< s >   o f   h i g h w a y   < / s > | 1
+< s >   o f   l e g i s l a t o r s   < / s > | 1
+< s >   o f   g a i n e s v i l l e   < / s > | 1
+< s >   o f   c a n d i d a t e s   < / s > | 1
+< s >   o f   r e g i s t e r e d   < / s > | 1
+< s >   o f   o f f i c e   < / s > | 1
+< s >   o f   o n e   < / s > | 1
+< s >   o f   b i r t h   < / s > | 1
+< s >   o f   g r i f f i n   < / s > | 1
+< s >   o f   k e e p i n g   < / s > | 1
+< s >   o f   f e e s   < / s > | 1
+< s >   o f   a p p r a i s e r s   < / s > | 1
+< s >   o f   f u l t o n   < / s > | 1
+< s >   o f   a l l   < / s > | 1
+< s >   o f   f e d e r a l   < / s > | 1
+< s >   o f   c i t y   < / s > | 1
+< s >   o f   a d m i n i s t r a t i o n   < / s > | 1
+< s >   o f   b o t h   < / s > | 1
+< s >   o f   o t h e r   < / s > | 1
+< s >   o f   m o d e r n i z i n g   < / s > | 1
+< s >   o f   v o t e r s   < / s > | 1
+< s >   o f   s u c h   < / s > | 1
+< s >   o f   p o s s i b l e   < / s > | 1
+< s >   i n v e s t i g a t i o n   o f   < / s > | 1
+< s >   a n   a s s i s t a n t   < / s > | 1
+< s >   a n   a m i c a b l e   < / s > | 1
+< s >   a n   i n t e r i m   < / s > | 1
+< s >   a n   i n v e s t i g a t i o n   < / s > | 1
+< s >   f r i d a y   ,   < / s > | 1
+< s >   f r i d a y   i n   < / s > | 1
+< s >   f r i d a y   .   < / s > | 1
+< s >   f r i d a y   a n   < / s > | 1
+< s >   s a i d   t h e   < / s > | 1
+< s >   s a i d   h e   < / s > | 1
+< s >   s a i d   h i s   < / s > | 1
+< s >   s a i d   s u n d a y   < / s > | 1
+< s >   s a i d   a   < / s > | 1
+< s >   s a i d   w e d n e s d a y   < / s > | 1
+< s >   s a i d   t h e y   < / s > | 1
+< s >   s a i d   ` `   < / s > | 1
+< s >   s a i d   i n   < / s > | 1
+< s >   s a i d   f r i d a y   < / s > | 1
+< s >   j u r y   p r a i s e d   < / s > | 1
+< s >   j u r y   d i d   < / s > | 1
+< s >   j u r y   a l s o   < / s > | 1
+< s >   j u r y   t o o k   < / s > | 1
+< s >   j u r y   .   < / s > | 1
+< s >   j u r y   c o m m e n t e d   < / s > | 1
+< s >   j u r y   h a d   < / s > | 1
+< s >   j u r y   f u r t h e r   < / s > | 1
+< s >   g r a n d   j u r i e s   < / s > | 1
+< s >   c o u n t y   d e m o c r a t i c   < / s > | 1
+< s >   c o u n t y   '   < / s > | 1
+< s >   c o u n t y   h a s   < / s > | 1
+< s >   c o u n t y   l e g i s l a t o r   < / s > | 1
+< s >   c o u n t y   r e p   < / s > | 1
+< s >   c o u n t y   u n i t   < / s > | 1
+< s >   c o u n t y   m u s t   < / s > | 1
+< s >   c o u n t y   j a i l   < / s > | 1
+< s >   c o u n t y   s h o u l d   < / s > | 1
+< s >   c o u n t y   ,   < / s > | 1
+< s >   c o u n t y   g e n e r a l   < / s > | 1
+< s >   c o u n t y   p u r c h a s i n g   < / s > | 1
+< s >   c o u n t y   g r a n d   < / s > | 1
+< s >   f u l t o n   h e a l t h   < / s > | 1
+< s >   f u l t o n   t a x   < / s > | 1
+< s >   f u l t o n   o r d i n a r y   < / s > | 1
+< s >   f u l t o n   t a x p a y e r s   < / s > | 1
+< s >   t h e   a d a m a n t   < / s > | 1
+< s >   t h e   s h e r i f f   < / s > | 1
+< s >   t h e   o r d i n a r y   < / s > | 1
+< s >   t h e   f o r m e r   < / s > | 1
+< s >   t h e   c a m p a i g n   < / s > | 1
+< s >   t h e   c o o l e s t   < / s > | 1
+< s >   t h e   m i l l e r   < / s > | 1
+< s >   t h e   e v e n t   < / s > | 1
+< s >   t h e   p a s t   < / s > | 1
+< s >   t h e   p r i v i l e g e   < / s > | 1
+< s >   t h e   i n c r e a s e   < / s > | 1
+< s >   t h e   b o d y   < / s > | 1
+< s >   t h e   p l a n s   < / s > | 1
+< s >   t h e   c o n s t i t u t i o n   < / s > | 1
+< s >   t h e   i s s u a n c e   < / s > | 1
+< s >   t h e   l e g i s l a t u r e   < / s > | 1
+< s >   t h e   o l d   < / s > | 1
+< s >   t h e   r u r a l   < / s > | 1
+< s >   t h e   d e p a r t m e n t   < / s > | 1
+< s >   t h e   s a l e s   < / s > | 1
+< s >   t h e   a c t   < / s > | 1
+< s >   t h e   v a l i d i t y   < / s > | 1
+< s >   t h e   b o n d   < / s > | 1
+< s >   t h e   f i r s t   < / s > | 1
+< s >   t h e   s e s s i o n   < / s > | 1
+< s >   t h e   $   < / s > | 1
+< s >   t h e   t r a d i t i o n a l   < / s > | 1
+< s >   t h e   g u b e r n a t o r i a l   < / s > | 1
+< s >   t h e   p a r t y   < / s > | 1
+< s >   t h e   g e n e r a l   < / s > | 1
+< s >   t h e   v o t e r s   < / s > | 1
+< s >   t h e   l a r g e s t   < / s > | 1
+< s >   t h e   r a c e   < / s > | 1
+< s >   t h e   c r o w d   < / s > | 1
+< s >   t h e   w a r n i n g   < / s > | 1
+< s >   t h e   s i g n a t u r e s   < / s > | 1
+< s >   t h e   b l u e   < / s > | 1
+< s >   t h e   f e a t u r e d   < / s > | 1
+< s >   t h e   1 9 6 2   < / s > | 1
+< s >   t h e   s e p t   < / s > | 1
+< s >   t h e   h a r t s f i e l d   < / s > | 1
+< s >   t h e   b e l l w o o d   < / s > | 1
+< s >   t h e   a d m i n i s t r a t i o n   < / s > | 1
+< s >   t h e   e s t a b l i s h m e n t   < / s > | 1
+< s >   t h e   j a i l   < / s > | 1
+< s >   t h e   p r i c e s   < / s > | 1
+< s >   t h e   p u r p o s e   < / s > | 1
+< s >   t h e   c o n c e s s i o n a i r e s   < / s > | 1
+< s >   t h e   p r i c i n g   < / s > | 1
+< s >   t h e   a i r p o r t   < / s > | 1
+< s >   t h e   r e c o m m e n d a t i o n s   < / s > | 1
+< s >   t h e   a w a r d i n g   < / s > | 1
+< s >   t h e   a p p o i n t m e n t   < / s > | 1
+< s >   t h e   f u t u r e   < / s > | 1
+< s >   t h e   e x c e p t i o n   < / s > | 1
+< s >   t h e   c o u n t i e s   < / s > | 1
+< s >   t h e   w e l f a r e   < / s > | 1
+< s >   t h e   m a j o r   < / s > | 1
+< s >   t h e   l a w   < / s > | 1
+< s >   t h e   e f f e c t i v e   < / s > | 1
+< s >   t h e   n e x t   < / s > | 1
+< s >   t h e   o u t g o i n g   < / s > | 1
+< s >   t h e   c o s t   < / s > | 1
+< s >   t h e   b e s t   < / s > | 1
+< s >   t h e   e n d   < / s > | 1
+< s >   t h e   s i z e   < / s > | 1
+< s >   t h e   w i d e s p r e a d   < / s > | 1
+< s >   t h e   h a r d - f o u g h t   < / s > | 1
+< s >   t h e   s e p t e m b e r - o c t o b e r   < / s > | 1
+< s >   t h e   m a n n e r   < / s > | 1
+< s >   t h e   p r a i s e   < / s > | 1
+< s >   >     < / s > | 1
+< s >   >   a u s t i n   < / s > | 1
+< s >   >   s h e r i f f   < / s > | 1
+< s >   >   m a n y   < / s > | 1
+< s >   >   d u r i n g   < / s > | 1
+< s >   >   i   < / s > | 1
+< s >   >   d a v i s   < / s > | 1
+< s >   >   c o l q u i t t   < / s > | 1
+< s >   >   b u t   < / s > | 1
+< s >   >   b a r b e r   < / s > | 1
+< s >   >   r e p   < / s > | 1
+< s >   >   a s   < / s > | 1
+< s >   >   w h i l e   < / s > | 1
+< s >   >   s c h l e y   < / s > | 1
+< s >   >   m e a n w h i l e   < / s > | 1
+< s >   >   c o n s t r u c t i o n   < / s > | 1
+< s >   >   g o v   < / s > | 1
+< s >   >   b e f o r e   < / s > | 1
+< s >   >   c a l d w e l l   < / s > | 1
+< s >   >   s a m   < / s > | 1
+< s >   >   f i v e   < / s > | 1
+< s >   >   d e s p i t e   < / s > | 1
+< s >   >   i n   < / s > | 1
+< s >   >   s t a t e   < / s > | 1
+< s >   >   r o b e r t   < / s > | 1
+< s >   >   g e o r g i a   < / s > | 1
+< s >   >   h a r t s f i e l d   < / s > | 1
+< s >   >   h e n r y   < / s > | 1
+< s >   >   a t t o r n e y s   < / s > | 1
+< s >   >   t h e y   < / s > | 1
+< s >   >   m a y o r   < / s > | 1
+< s >   >   f u l t o n   < / s > | 1
+< s >   >   (   < / s > | 1
+< s >   >   f o u r   < / s > | 1
+< s >   >   o n   < / s > | 1
+< s >   >   a s k   < / s > | 1
+< s >   >   r e g a r d i n g   < / s > | 1
+< s >   >   w a r d s   < / s > | 1
+< s >   >   n e v e r t h e l e s s   < / s > | 1
+< s >   >   i m p l e m e n t a t i o n   < / s > | 1
+< s >   >   h o w e v e r   < / s > | 1
+< s >   >   m e r g e r   < / s > | 1
+< s >   t r o u b l e   '   < / s > | 2
+< s >   b i t   o f   < / s > | 2
+< s >   b u s h   ,   < / s > | 2
+< s >   e v e r   s a w   < / s > | 2
+< s >   i   e v e r   < / s > | 2
+< s >   s u p e r i n t e n d e n t   ,   < / s > | 2
+< s >   m i l l e r   c o u n t y   < / s > | 2
+< s >   c o n t r o v e r s y   ,   < / s > | 2
+< s >   e d u c a t i o n   ,   < / s > | 2
+< s >   p a y   r a i s e s   < / s > | 2
+< s >   p r i v i l e g e   r e s o l u t i o n   < / s > | 2
+< s >   s u n d a y   n i g h t   < / s > | 2
+< s >   i n c r e a s e   i n   < / s > | 2
+< s >   r e s c i n d   t h e   < / s > | 2
+< s >   r e p   .   < / s > | 2
+< s >   r e v o l v i n g   f u n d   < / s > | 2
+< s >   r o a d s   b o n d s   < / s > | 2
+< s >   r o a d s   a u t h o r i t y   < / s > | 2
+< s >   b e i n g   a t   < / s > | 2
+< s >   b o n d s   .   < / s > | 2
+< s >   i s s u e   t h e   < / s > | 2
+< s >   b o n d   i s s u e   < / s > | 2
+< s >   h i g h w a y   b o n d   < / s > | 2
+< s >   s a y s   t h a t   < / s > | 2
+< s >   v o t e   o n   < / s > | 2
+< s >   d e s p i t e   t h e   < / s > | 2
+< s >   b l u e   r i d g e   < / s > | 2
+< s >   e n t e r   a   < / s > | 2
+< s >   w o u l d   h a v e   < / s > | 2
+< s >   a f t e r   h e   < / s > | 2
+< s >   s e p t   .   < / s > | 2
+< s >   c a n d i d a t e   i n   < / s > | 2
+< s >   s u c c e e d e d   b y   < / s > | 2
+< s >   h e   w i l l   < / s > | 2
+< s >   p e l h a m   s a i d   < / s > | 2
+< s >   m o r e   t h a n   < / s > | 2
+< s >   a g e   a s   < / s > | 2
+< s >   g r i f f i n   .   < / s > | 2
+< s >   w i l l i a m s   s a i d   < / s > | 2
+< s >   h i s   w i f e   < / s > | 2
+< s >   b   .   < / s > | 2
+< s >   )   < /   < / s > | 2
+< s >   t h e r e   t o   < / s > | 2
+< s >   j a n   .   < / s > | 2
+< s >   n e w   s c h o o l   < / s > | 2
+< s >   p o r t i o n   o f   < / s > | 2
+< s >   s o m e   o f   < / s > | 2
+< s >   j u r o r s   s a i d   < / s > | 2
+< s >   n o n e   o f   < / s > | 2
+< s >   e x c e p t i o n   o f   < / s > | 2
+< s >   w i t h   a   < / s > | 2
+< s >   w i t h   t h e   < / s > | 2
+< s >   h a s   n o t   < / s > | 2
+< s >   o n e   o f   < / s > | 2
+< s >   f e d e r a l   f u n d s   < / s > | 2
+< s >   w e l f a r e   d e p a r t m e n t   < / s > | 2
+< s >   s t a t e   h i g h w a y   < / s > | 2
+< s >   s t a t e   w e l f a r e   < / s > | 2
+< s >   f u n d s   '   < / s > | 2
+< s >   i m p l e m e n t a t i o n   o f   < / s > | 2
+< s >   u r g e d   t h a t   < / s > | 2
+< s >   i s   a   < / s > | 2
+< s >   d e p a r t m e n t   s o u r c e   < / s > | 2
+< s >   d e p a r t m e n t   ,   < / s > | 2
+< s >   b e   s u c c e e d e d   < / s > | 2
+< s >   b e   e m p l o y e d   < / s > | 2
+< s >   h o w e v e r   ,   < / s > | 2
+< s >   c o m m e n t e d   o n   < / s > | 2
+< s >   t h e s e   f u n d s   < / s > | 2
+< s >   h a v e   t o   < / s > | 2
+< s >   h a v e   a   < / s > | 2
+< s >   r e c o m m e n d e d   t h a t   < / s > | 2
+< s >   d i d   n ' t   < / s > | 2
+< s >   i t   w a s   < / s > | 2
+< s >   i t   u r g e d   < / s > | 2
+< s >   a   b i t   < / s > | 2
+< s >   a   v e t e r a n   < / s > | 2
+< s >   a   r e s o l u t i o n   < / s > | 2
+< s >   a   r e v o l v i n g   < / s > | 2
+< s >   a   s t a t e   < / s > | 2
+< s >   a l l e n   j r   < / s > | 2
+< s >   i v a n   a l l e n   < / s > | 2
+< s >   t o   ` `   < / s > | 2
+< s >   t o   r e s c i n d   < / s > | 2
+< s >   t o   e n t e r   < / s > | 2
+< s >   t o   p l a c e   < / s > | 2
+< s >   s u p e r i o r   c o u r t   < / s > | 2
+< s >   f o r   g o v e r n o r   < / s > | 2
+< s >   f o r   a   < / s > | 2
+< s >   a n d   b u s h   < / s > | 2
+< s >   h a d   b e e n   < / s > | 2
+< s >   ,   h o w e v e r   < / s > | 2
+< s >   ,   i t   < / s > | 2
+< s >   ,   t h e r e   < / s > | 2
+< s >   ,   s a i d   < / s > | 2
+< s >   ,   s t a t e   < / s > | 2
+< s >   ,   i n   < / s > | 2
+< s >   ,   b u t   < / s > | 2
+< s >   c o m m i t t e e   .   < / s > | 2
+< s >   e x e c u t i v e   c o m m i t t e e   < / s > | 2
+< s >   .   p e l h a m   < / s > | 2
+< s >   .   ,   < / s > | 2
+< s >   .   1   < / s > | 2
+< s >   .   .   < / s > | 2
+< s >   t h a t   ` `   < / s > | 2
+< s >   t h a t   w i l l   < / s > | 2
+< s >   t h a t   a n   < / s > | 2
+< s >   ` `   t h e r e   < / s > | 2
+< s >   ` `   a   < / s > | 2
+< s >   ` `   h a s   < / s > | 2
+< s >   ` `   t h i s   < / s > | 2
+< s >   ` `   t h e s e   < / s > | 2
+< s >   e l e c t i o n   .   < / s > | 2
+< s >   e l e c t i o n   i   < / s > | 2
+< s >   e l e c t i o n   w a s   < / s > | 2
+< s >   a t l a n t a   ' s   < / s > | 2
+< s >   o f   t r o u b l e   < / s > | 2
+< s >   o f   a   < / s > | 2
+< s >   o f   t w o   < / s > | 2
+< s >   o f   t h e s e   < / s > | 2
+< s >   o f   t h i s   < / s > | 2
+< s >   a n   o r d e r l y   < / s > | 2
+< s >   s a i d   t h e r e   < / s > | 2
+< s >   s a i d   t h a t   < / s > | 2
+< s >   j u r y   r e c o m m e n d e d   < / s > | 2
+< s >   c o u n t y   s c h o o l   < / s > | 2
+< s >   f u l t o n   l e g i s l a t o r s   < / s > | 2
+< s >   f u l t o n   s u p e r i o r   < / s > | 2
+< s >   t h e   a c t i o n   < / s > | 2
+< s >   t h e   ` `   < / s > | 2
+< s >   t h e   s e n a t e   < / s > | 2
+< s >   t h e   h i g h w a y   < / s > | 2
+< s >   t h e   g e o r g i a   < / s > | 2
+< s >   t h e   c o u n t y   < / s > | 2
+< s >   t h e   a u d i e n c e   < / s > | 2
+< s >   t h e   c o u p l e   < / s > | 2
+< s >   t h e   c o u r t   < / s > | 2
+< s >   t h e   j u r o r s   < / s > | 2
+< s >   t h e   g r a n d   < / s > | 2
+< s >   t h e   n u m b e r   < / s > | 2
+< s >   >   o r d i n a r y   < / s > | 2
+< s >   >   - -   < / s > | 2
+< s >   >   p e l h a m   < / s > | 2
+< s >   >   v a n d i v e r   < / s > | 2
+< s >   >   w h e n   < / s > | 2
+< s >   >   h e   < / s > | 2
+< s >   >   h i s   < / s > | 2
+< s >   s c h o o l   s u p e r i n t e n d e n t   < / s > | 3
+< s >   w o r t h   o f   < / s > | 3
+< s >   m i l l i o n   w o r t h   < / s > | 3
+< s >   e x p e c t e d   t o   < / s > | 3
+< s >   m a k e   t h e   < / s > | 3
+< s >   r a c e   ,   < / s > | 3
+< s >   w o u l d   b e   < / s > | 3
+< s >   m a y o r   ' s   < / s > | 3
+< s >   a d d e d   t h a t   < / s > | 3
+< s >   w h e n   t h e   < / s > | 3
+< s >   a s   a   < / s > | 3
+< s >   i s   e x p e c t e d   < / s > | 3
+< s >   n u m b e r   o f   < / s > | 3
+< s >   j r   .   < / s > | 3
+< s >   t o   i s s u e   < / s > | 3
+< s >   t o   m a k e   < / s > | 3
+< s >   f o r   t h e   < / s > | 3
+< s >   a n d   t h e   < / s > | 3
+< s >   w h i c h   t h e   < / s > | 3
+< s >   ,   a   < / s > | 3
+< s >   ,   w h i c h   < / s > | 3
+< s >   i n   a   < / s > | 3
+< s >   ` `   a r e   < / s > | 3
+< s >   e l e c t i o n   ,   < / s > | 3
+< s >   o f   a t l a n t a   < / s > | 3
+< s >   s a i d   i t   < / s > | 3
+< s >   s a i d   ,   < / s > | 3
+< s >   g r a n d   j u r y   < / s > | 3
+< s >   t h e   p o l l s   < / s > | 3
+< s >   t h e   r e s o l u t i o n   < / s > | 3
+< s >   t h e   r e p u b l i c a n s   < / s > | 3
+< s >   t h e   p e t i t i o n   < / s > | 3
+< s >   t h e   n e w   < / s > | 3
+< s >   t h e   a t l a n t a   < / s > | 3
+< s >   r u r a l   r o a d s   < / s > | 4
+< s >   g o v   .   < / s > | 4
+< s >   h i g h w a y   d e p a r t m e n t   < / s > | 4
+< s >   t h e r e   w a s   < / s > | 4
+< s >   w i l l   b e   < / s > | 4
+< s >   h a s   b e e n   < / s > | 4
+< s >   s h o u l d   b e   < / s > | 4
+< s >   o n   t h e   < / s > | 4
+< s >   g e o r g i a   ' s   < / s > | 4
+< s >   a   c a n d i d a t e   < / s > | 4
+< s >   t o   t h e   < / s > | 4
+< s >   ,   w h o   < / s > | 4
+< s >   ,   ` `   < / s > | 4
+< s >   o f   g e o r g i a   < / s > | 4
+< s >   s a i d   .   < / s > | 4
+< s >   t h e   h o u s e   < / s > | 4
+< s >   t h e   m a y o r   < / s > | 4
+< s >   t h e   c i t y   < / s > | 4
+< s >   >   a   < / s > | 4
+< s >   ,   a n d   < / s > | 5
+< s >   t h a t   t h e   < / s > | 5
+< s >   a t   t h e   < / s > | 6
+< s >   f u l t o n   c o u n t y   < / s > | 6
+< s >   t h e   s t a t e   < / s > | 6
+< s >   t h e   e l e c t i o n   < / s > | 6
+< s >   t h e   f u l t o n   < / s > | 6
+< s >   >   i t   < / s > | 6
+< s >   '   ,   < / s > | 7
+< s >   j u r y   s a i d   < / s > | 8
+< s >   >   ` `   < / s > | 8
+< s >   t h e   j u r y   < / s > | 13
+< s >   o f   t h e   < / s > | 14
+< s >   '   .   < / s > | 15
+< s >   ,   t h e   < / s > | 16
+< s >   i n   t h e   < / s > | 16
+< s >   >   t h e   < / s > | 27
+< s >   '   '   < / s > | 34
+< s >   .   < /   < / s > | 89
+< s >   >   <   < / s > | 99
+< s >   < /   s   < / s > | 100
+< s >   <   s   < / s > | 100
+< s >   s   >   < / s > | 200
