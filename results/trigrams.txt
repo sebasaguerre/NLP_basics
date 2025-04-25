@@ -1,10 +1,10 @@
-< s >   s   >   t h e   < / s > | 200
-< s >   >   t h e   f u l t o n   < / s > | 199
-< s >   t h e   f u l t o n   c o u n t y   < / s > | 156
-< s >   .   < /   s   < / s > | 117
 < s >   <   s   >   < / s > | 100
 < s >   < /   s   >   < / s > | 100
-< s >   ,   w h i c h   h a d   < / s > | 88
-< s >   '   '   t h a t   < / s > | 68
-< s >   o f   a t l a n t a   ' s   < / s > | 67
-< s >   t o   i n v e s t i g a t e   r e p o r t s   < / s > | 55
+< s >   s   >   <   < / s > | 99
+< s >   >   <   s   < / s > | 99
+< s >   .   < /   s   < / s > | 89
+< s >   s   >   t h e   < / s > | 27
+< s >   '   '   .   < / s > | 15
+< s >   '   .   < /   < / s > | 15
+< s >   s   >   ` `   < / s > | 8
+< s >   t h e   j u r y   s a i d   < / s > | 7
