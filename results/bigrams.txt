@@ -1,10 +1,10 @@
-< s >   s   >   < / s > | 200
-< s >   <   s   < / s > | 100
-< s >   < /   s   < / s > | 100
-< s >   >   <   < / s > | 99
-< s >   .   < /   < / s > | 89
-< s >   '   '   < / s > | 34
-< s >   >   t h e   < / s > | 27
-< s >   i n   t h e   < / s > | 16
-< s >   ,   t h e   < / s > | 16
-< s >   '   .   < / s > | 15
+< s >   ,   a r m e d   < / s > | 1
+< s >   ,   a s   < / s > | 1
+< s >   ,   e l e c t e d   < / s > | 1
+< s >   ,   m i l l e r   < / s > | 1
+< s >   ,   h o t   < / s > | 1
+< s >   ,   w i l l   < / s > | 1
+< s >   ,   p r o v i d e d   < / s > | 1
+< s >   ,   s o m e t h i n g   < / s > | 1
+< s >   ,   p e l h a m   < / s > | 1
+< s >   ,   t h a t   < / s > | 1

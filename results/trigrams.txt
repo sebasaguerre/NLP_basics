@@ -1,10 +1,10 @@
-< s >   <   s   >   < / s > | 100
-< s >   < /   s   >   < / s > | 100
-< s >   s   >   <   < / s > | 99
-< s >   >   <   s   < / s > | 99
-< s >   .   < /   s   < / s > | 89
-< s >   s   >   t h e   < / s > | 27
-< s >   '   '   .   < / s > | 15
-< s >   '   .   < /   < / s > | 15
-< s >   s   >   ` `   < / s > | 8
-< s >   t h e   j u r y   s a i d   < / s > | 7
+< s >   t h a t   t h e   r e p u b l i c a n s   < / s > | 1
+< s >   t h a t   b e f o r e   m a k i n g   < / s > | 1
+< s >   t h a t   e n t e r i n g   a   < / s > | 1
+< s >   t h a t   e n t h u s i a s m   w a s   < / s > | 1
+< s >   t h a t   h e   w o u l d   < / s > | 1
+< s >   t h a t   t h e   c o u p l e   < / s > | 1
+< s >   t h a t   a n   a m i c a b l e   < / s > | 1
+< s >   t h a t   w i l l   p e r m i t   < / s > | 1
+< s >   t h a t   :   (   < / s > | 1
+< s >   t h a t   ` `   t h e r e   < / s > | 1
